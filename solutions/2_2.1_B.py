@@ -1,5 +1,6 @@
 def solution():
-    name = str(input("Как Вас зовут?"))
+    print("Как Вас зовут?")
+    name = str(input())
     print(f"Привет, {name}!")
 
 
