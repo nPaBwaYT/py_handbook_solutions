@@ -11,7 +11,7 @@ def solution():
         res += a[:ost:][::-1]
     else:
         res += b[:abs(ost):][::-1]
-    print(int(res[::-1]))
+    print(res[::-1])
 
 
 def main():
