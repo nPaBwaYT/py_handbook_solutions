@@ -1,9 +1,15 @@
 def solution():
-    red = int(input())
-    green = int(input())
-    blue = int(input())
+    hours = int(input())
+    minutes = int(input())
+    time = int(input())
 
-    print(str(red + blue + 1))
+    hours = (hours + (minutes + time) // 60) % 24
+    minutes = (minutes + time) % 60
+
+    hours = "0" + str(hours)
+    minutes = "0" + str(minutes)
+
+    print(f"{hours[-2::]}:{minutes[-2::]}")
 
 
 def main():
