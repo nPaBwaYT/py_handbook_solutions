@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/handbook_solutions.iml" filepath="$PROJECT_DIR$/.idea/handbook_solutions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/py_handbook_solutions.iml" filepath="$PROJECT_DIR$/.idea/py_handbook_solutions.iml" />
     </modules>
   </component>
 </project>
