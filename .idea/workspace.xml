@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="54f9eb04-2959-4db4-95ed-bc7433c45dc3" name="Changes" comment="2.2 from I to P">
+      <change afterPath="$PROJECT_DIR$/solutions/2_2,2/2_2.2_Q.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/2_2,2/2_2.2_R.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/2_2,2/2_2.2_S.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/2_2,2/2_2.2_T.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2VT88io4permLM2qxeE3edzf3zR" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Projects/python/py_handbook_solutions/solutions/2_2,2&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projects\python\py_handbook_solutions\solutions\2_2,2" />
+      <recent name="C:\Projects\python\py_handbook_solutions\solutions" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projects\python\py_handbook_solutions\solutions\2_2,2" />
+      <recent name="C:\Projects\python\py_handbook_solutions\solutions\2_2,1" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54f9eb04-2959-4db4-95ed-bc7433c45dc3" name="Changes" comment="" />
+      <created>1694848551876</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694848551876</updated>
+    </task>
+    <task id="LOCAL-00001" summary="2.2 from A to K and directories for different chapters">
+      <option name="closed" value="true" />
+      <created>1694938080035</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694938080035</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2.2 from I to P">
+      <option name="closed" value="true" />
+      <created>1694980713585</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694980713585</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2.2 from A to K and directories for different chapters" />
+    <MESSAGE value="2.2 from I to P" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.2 from I to P" />
+  </component>
+</project>
