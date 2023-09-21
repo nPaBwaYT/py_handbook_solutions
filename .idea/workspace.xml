@@ -4,26 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54f9eb04-2959-4db4-95ed-bc7433c45dc3" name="Changes" comment="2.2 full">
-      <change afterPath="$PROJECT_DIR$/solutions/2_2,3/2_2.3_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/2_2,3/2_2.3_B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/2_2,3/2_2.3_C_D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/2_2,3/2_2.3_E.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/2_2,3/2_2.3_F.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/2_2,3/2_2.3_G.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/2_2,3/2_2.3_H.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/2_2,3/2_2.3_I.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/2_2,3/2_2.3_J.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/2_2,3/2_2.3_K.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/2_2,3/2_2.3_L.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/2_2,3/2_2.3_M.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/2_2,3/2_2.3_N.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/2_2,3/2_2.3_O.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/2_2,3/2_2.3_P.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/2_2,3/2_2.3_Q.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/2_2,3/2_2.3_R.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/2_2,3/2_2.3_S.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/2_2,3/2_2.3_T.py" afterDir="false" />
+    <list default="true" id="54f9eb04-2959-4db4-95ed-bc7433c45dc3" name="Changes" comment="2.3 full">
+      <change afterPath="$PROJECT_DIR$/solutions/2_2,4/2_2.4_A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/2_2,4/2_2.4_B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/2_2,4/2_2.4_C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/2_2,4/2_2.4_D.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/2_2,4/2_2.4_E.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/2_2,4/2_2.4_F.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/2_2,4/2_2.4_G.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/2_2,4/2_2.4_H.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/2_2,4/2_2.4_I.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/2_2,4/2_2.4_J.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/2_2,4/2_2.4_K.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/2_2,4/2_2.4_L.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/2_2,4/2_2.4_M.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/2_2,4/2_2.4_N.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/2_2,4/2_2.4_O.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/2_2,4/2_2.4_P.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/2_2,4/2_2.4_Q.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/2_2,4/2_2.4_R.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/2_2,4/2_2.4_S.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/2_2,4/2_2.4_T.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,16 +46,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Projects/python/py_handbook_solutions/solutions/2_2,3"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Projects/python/py_handbook_solutions/solutions/2_2,4&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projects\python\py_handbook_solutions\solutions\2_2,4" />
       <recent name="C:\Projects\python\py_handbook_solutions\solutions\2_2,3" />
       <recent name="C:\Projects\python\py_handbook_solutions\solutions\2_2,2" />
       <recent name="C:\Projects\python\py_handbook_solutions\solutions" />
@@ -97,12 +99,21 @@
       <option name="project" value="LOCAL" />
       <updated>1695041493671</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2.3 full">
+      <option name="closed" value="true" />
+      <created>1695109375761</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695109375761</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2.2 from A to K and directories for different chapters" />
     <MESSAGE value="2.2 from I to P" />
-    <option name="LAST_COMMIT_MESSAGE" value="2.2 from I to P" />
+    <MESSAGE value="2.3 full" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.3 full" />
   </component>
 </project>
