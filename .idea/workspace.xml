@@ -4,26 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54f9eb04-2959-4db4-95ed-bc7433c45dc3" name="Changes" comment="2.4 full">
-      <change afterPath="$PROJECT_DIR$/solutions/3_3,1/3_3,1_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/3_3,1/3_3,1_B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/3_3,1/3_3,1_C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/3_3,1/3_3,1_D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/3_3,1/3_3,1_E.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/3_3,1/3_3,1_F.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/3_3,1/3_3,1_G.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/3_3,1/3_3,1_H.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/3_3,1/3_3,1_I.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/3_3,1/3_3,1_J.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/3_3,1/3_3,1_K.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/3_3,1/3_3,1_L.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/3_3,1/3_3,1_M.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/3_3,1/3_3,1_N.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/3_3,1/3_3,1_O.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/3_3,1/3_3,1_P.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/3_3,1/3_3,1_Q.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/3_3,1/3_3,1_R.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/3_3,1/3_3,1_S_T.py" afterDir="false" />
+    <list default="true" id="54f9eb04-2959-4db4-95ed-bc7433c45dc3" name="Changes" comment="3.1 full">
+      <change afterPath="$PROJECT_DIR$/solutions/3_3,2/3_3,2_A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/3_3,2/3_3,2_B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/3_3,2/3_3,2_C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/3_3,2/3_3,2_D.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,21 +37,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Projects/python/py_handbook_solutions/solutions/3_3,1&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Projects/python/py_handbook_solutions/solutions/3_3,2"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projects\python\py_handbook_solutions\solutions\3_3,2" />
+      <recent name="C:\Projects\python\py_handbook_solutions\solutions" />
       <recent name="C:\Projects\python\py_handbook_solutions\solutions\3_3,1" />
       <recent name="C:\Projects\python\py_handbook_solutions\solutions\2_2,4" />
       <recent name="C:\Projects\python\py_handbook_solutions\solutions\2_2,3" />
-      <recent name="C:\Projects\python\py_handbook_solutions\solutions\2_2,2" />
-      <recent name="C:\Projects\python\py_handbook_solutions\solutions" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Projects\python\py_handbook_solutions\solutions\2_2,2" />
@@ -122,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695279877787</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="3.1 full">
+      <option name="closed" value="true" />
+      <created>1695457332882</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1695457332882</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -130,6 +123,7 @@
     <MESSAGE value="2.2 from I to P" />
     <MESSAGE value="2.3 full" />
     <MESSAGE value="2.4 full" />
-    <option name="LAST_COMMIT_MESSAGE" value="2.4 full" />
+    <MESSAGE value="3.1 full" />
+    <option name="LAST_COMMIT_MESSAGE" value="3.1 full" />
   </component>
 </project>
