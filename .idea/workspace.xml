@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54f9eb04-2959-4db4-95ed-bc7433c45dc3" name="Changes" comment="3.1 full">
-      <change afterPath="$PROJECT_DIR$/solutions/3_3,2/3_3,2_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/3_3,2/3_3,2_B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/3_3,2/3_3,2_C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/3_3,2/3_3,2_D.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="54f9eb04-2959-4db4-95ed-bc7433c45dc3" name="Changes" comment="3.2 A-D">
+      <change afterPath="$PROJECT_DIR$/solutions/3_3,2/3_3.2_A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/3_3,2/3_3.2_B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/3_3,2/3_3.2_C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/3_3,2/3_3.2_D.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +23,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -41,7 +45,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Projects/python/py_handbook_solutions/solutions/3_3,2"
   }
 }]]></component>
@@ -115,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695457332882</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="3.2 A-D">
+      <option name="closed" value="true" />
+      <created>1695484139455</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1695484139455</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -124,6 +136,7 @@
     <MESSAGE value="2.3 full" />
     <MESSAGE value="2.4 full" />
     <MESSAGE value="3.1 full" />
-    <option name="LAST_COMMIT_MESSAGE" value="3.1 full" />
+    <MESSAGE value="3.2 A-D" />
+    <option name="LAST_COMMIT_MESSAGE" value="3.2 A-D" />
   </component>
 </project>
