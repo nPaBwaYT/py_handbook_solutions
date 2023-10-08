@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54f9eb04-2959-4db4-95ed-bc7433c45dc3" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/solutions/3_3,2/3_3.2_I.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/3_3,2/3_3.2_J.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/3_3,2/3_3.2_K.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/3_3,2/3_3.2_L.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/3_3,2/3_3.2_M.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/3_3,2/3_3.2_N.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/3_3,2/3_3.2_O.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/3_3,2/3_3.2_P.py" afterDir="false" />
+    <list default="true" id="54f9eb04-2959-4db4-95ed-bc7433c45dc3" name="Changes" comment="3.2 I-P">
+      <change afterPath="$PROJECT_DIR$/solutions/3_3,2/3_3.2_Q.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/3_3,2/3_3.2_R.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/3_3,2/3_3.2_S.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/3_3,2/3_3.2_T.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -173,7 +169,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696232784652</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="3.2 I-P">
+      <option name="closed" value="true" />
+      <created>1696245112084</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1696245112084</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -186,6 +190,7 @@
     <MESSAGE value="правки" />
     <MESSAGE value="3.2 E-H" />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="3.2 I-P" />
+    <option name="LAST_COMMIT_MESSAGE" value="3.2 I-P" />
   </component>
 </project>
