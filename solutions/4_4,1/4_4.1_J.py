@@ -13,4 +13,4 @@ def merge(a: tuple, b: tuple) -> tuple:
         else:
             ans.append(b[0])
             del b[0]
-    return tuple(chain(ans, a, b))#
+    return tuple(chain(ans, a, b))
